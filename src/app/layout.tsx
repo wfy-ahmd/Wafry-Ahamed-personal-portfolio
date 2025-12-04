@@ -23,9 +23,9 @@ export const metadata: Metadata = {
   keywords: siteConfig.keywords.join(', '),
   robots: { index: true, follow: true },
   icons: {
-    icon: '/favicon/logo1.png',
-    shortcut: '/favicon/logo1.png',
-    apple: '/favicon/logo1.png',
+    icon: '/logo/logo.png',
+    shortcut: '/logo/logo16.png',
+    apple: '/logo/apple-touch-icon.png',
   },
   verification: {
     google: siteConfig.googleSiteVerificationId,
